@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/PMehar/starting-with-node.js.git"
   },
+  
   "author": "Puja Mehar",
   "license": "ISC",
   "dependencies": {
