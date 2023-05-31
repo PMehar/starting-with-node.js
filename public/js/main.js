@@ -6,7 +6,6 @@ function backdropClickHandler() {
   backdrop.style.display = 'none';
   sideDrawer.classList.remove('open');
 }
-
 function menuToggleClickHandler() {
   backdrop.style.display = 'block';
   sideDrawer.classList.add('open');

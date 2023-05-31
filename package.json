@@ -8,8 +8,7 @@
     "start": "nodemon app.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PMehar/starting-with-node.js.git"
+    "type": "git"
   },
   
   "author": "Puja Mehar",
